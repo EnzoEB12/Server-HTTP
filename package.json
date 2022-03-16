@@ -1,0 +1,17 @@
+{
+  "name": "first-servers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codigo.js",
+  "scripts": {
+    "dev": "nodemon codigo.js",
+    "start": "node codigo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
