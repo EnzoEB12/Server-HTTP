@@ -2,10 +2,10 @@
   "name": "first-servers",
   "version": "1.0.0",
   "description": "",
-  "main": "codigo.js",
+  "main": "index.js",
   "scripts": {
-    "dev": "nodemon codigo.js",
-    "start": "node codigo.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
